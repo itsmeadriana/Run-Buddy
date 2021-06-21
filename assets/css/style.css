@@ -64,3 +64,19 @@ footer div {
 footer a {
     color: #024e76;
 }
+
+.hero {
+    background-image: url("../images/hero-bg.jpeg");
+    height: 600px;
+}
+
+.hero-form {
+    float: right;
+    line-height: 1.5; 
+    padding: 20px;
+    background-color: #fce138;
+    width: 500px;
+    color: #024e76;
+    border: solid 3px #024e76;
+
+}

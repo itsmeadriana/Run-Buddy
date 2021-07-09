@@ -10,7 +10,7 @@ A website that offers fitness training services.
 * CSS
 
 ## Website
-https://itsmeadriana.github.io/run-buddy/
+https://itsmeadriana.github.io/Run-Buddy/
 
 ## Contribution
 Made with ❤️ by Adriana
